@@ -15,22 +15,22 @@
 
 ### **Techs:**
 
-<img height='35' src="https://img.shields.io/badge/-React.js-202430?style=for-the-badge&logo=react&labelColor=202430" alt='React.js' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-JavaScript-202430?style=for-the-badge&logo=javascript&labelColor=202430&textColor=202430" alt='JavaScript' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-HTML-202430?style=for-the-badge&logo=html5&labelColor=202430" alt='HTML' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-CSS-202430?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=202430" alt='CSS' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-Node.JS-202430?style=for-the-badge&logo=node.js&labelColor=202430&textColor=202430" alt='Node.JS' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-postgresql-202430?style=for-the-badge&logo=postgresql&labelColor=202430" alt='PostgreSQL' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-typescript-202430?style=for-the-badge&logo=typescript&labelColor=202430" alt='TypeScript' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-GitHub-202430?style=for-the-badge&logo=github&labelColor=202430" alt='Github' />&nbsp;
-<img height='35' src="https://img.shields.io/badge/-Git-202430?style=for-the-badge&logo=git&labelColor=202430" />&nbsp;
+<img align="left" title= 'React' alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" title= 'Django' alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" title= 'Node.js' alt="Node.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" title= 'TypeScript' alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" title= 'Python' alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" title= 'Git' alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" title= 'JavaScript'  alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" title= 'HTML' alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" title= 'CSS' alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" title= 'GitHub' alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--
+<img align="left" title= 'C#' alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" title= '.Net' alt=".Net" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+
 Extras
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)&nbsp;
-
-monokai
-
-
 
 -->
